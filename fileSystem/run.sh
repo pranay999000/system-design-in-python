@@ -26,4 +26,5 @@ cd ..
 pwd
 ls
 rm horror
+ls
 exit
