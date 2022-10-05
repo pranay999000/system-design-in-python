@@ -1,4 +1,4 @@
-git ls
+ls
 mkdir movies
 pwd
 cd movies
